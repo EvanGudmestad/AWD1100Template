@@ -1,0 +1,5 @@
+Plant|3245649|Agapanthus|7.95|1 gallon
+Plant|3762592|Limonium|6.95|1 gallon
+Supply|9210584|Snail pellets|12.95|Ortho
+Plant|4738459|Japanese Red Maple|89.95|15 gallon
+Supply|9387260|Turf Builder Lawn Fertilizer|15.95|Scotts

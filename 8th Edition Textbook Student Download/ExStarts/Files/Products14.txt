@@ -1,0 +1,4 @@
+Book|JAVA|Murach's Java Programming|59.50|Joel Murach
+Software|NPTK|.NET Programmer's Toolkit|179.99|4.5
+Software|NVLD|.NET Validation Library|79.50|1.5
+Book|C#|Murach's C#|59.50|Anne Boehm

@@ -1,0 +1,4 @@
+C#|Murach's C#|59.50
+ASPWEB|Murach's ASP.NET Web Forms|59.50
+SQLS|Murach's SQL Server|59.50
+JAVA|Murach's Java Programming|59.50
